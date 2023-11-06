@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">HSAI_project</string>
+    <string name="title_explore">Explore</string>
+    <string name="title_products">Producten</string>
+    <string name="title_shops">Winkels</string>
+    <string name="title_map">Kaart</string>
+    <string name="title_wishlist">Wishlist</string>
+    <string name="title_shoppingcart">Winkelwagen</string>
+    <string name="title_reservations">Reservaties</string>
+    <string name="title_compare">Vergelijken</string>
+    <string name="title_profile">Profiel</string>
+    <string name="title_notifications">Notificaties</string>
+    <string name="title_settings">Instellingen</string>
+    <string name="title_shoppingcart_delete">Verwijder items uit shoppingcart</string>
+    <string name="cancel_reservation">Annuleer</string>
+    <string name="amountlabel_reservation">Aantal:</string>
+    <string name="reservate_shoppingcart">Reserveer</string>
+    <string name="deletebutton_shoppingcart_delete">Haal items uit wagen</string>
+
+    <string name="reservation_cancel_text">Reservatie annuleren?</string>
+    <string name="reservation_cancel_confirm">Annuleer</string>
+    <string name="reservation_cancel_stop">Stoppen</string>
+    <string name="reservation_cancel_toast">Resevatie geannuleerd</string>
+    <string name="reservation_empty">Nog geen reservaties</string>
+
+    <string name="shoppingcart_empty">Geen items in je winkelwagen</string>
+    <string name="loremIpsum">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui.</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="sortoption_hightolow">Prijs: hoog naar laag</string>
+    <string name="sortoption_lowtohigh">Prijs: laag naar hoog</string>
+    <string name="sortoption_alf">Alfabetisch</string>
+
+    <string name="compare_no_product">Geen product gekozen</string>
+</resources>

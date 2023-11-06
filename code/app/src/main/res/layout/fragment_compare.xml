@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.CompareFragment">
+
+    <ImageView
+        android:id="@+id/compare_image_product_1"
+        android:layout_width="100dp"
+        android:layout_height="100dp"/>
+    <TextView
+        android:layout_width="250dp"
+        android:layout_height="100dp"
+        android:layout_toRightOf="@+id/compare_image_product_1"
+        android:text="@string/compare_no_product"
+        android:textSize="30dp"
+        android:textAlignment="center"
+        android:id="@+id/compare_product_name_1"/>
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_toRightOf="@+id/compare_product_name_1"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/ic_delete_black_24dp"
+        android:id="@+id/compare_delete_1"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="175dp"
+        android:layout_below="@+id/compare_image_product_1"
+        android:id="@+id/compare_text_product_1"
+        android:textSize="25dp"
+        />
+    <ImageView
+        android:id="@+id/compare_image_product_2"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/compare_text_product_1"/>
+    <TextView
+        android:layout_width="250dp"
+        android:layout_height="100dp"
+        android:layout_toRightOf="@+id/compare_image_product_2"
+        android:layout_below="@+id/compare_text_product_1"
+        android:text="@string/compare_no_product"
+        android:textSize="30dp"
+        android:textAlignment="center"
+        android:id="@+id/compare_product_name_2"/>
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_toRightOf="@+id/compare_product_name_2"
+        android:layout_below="@+id/compare_text_product_1"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/ic_delete_black_24dp"
+        android:id="@+id/compare_delete_2"
+        />
+
+    <TextView
+        android:id="@+id/compare_text_product_2"
+        android:layout_width="match_parent"
+        android:layout_height="175dp"
+        android:layout_below="@+id/compare_image_product_2"
+        android:textSize="25dp"
+        />
+
+
+</RelativeLayout>

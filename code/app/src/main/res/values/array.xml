@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_option_spinner">
+        <item>@string/sortoption_lowtohigh</item>
+        <item>@string/sortoption_hightolow</item>
+        <item>@string/sortoption_alf</item>
+    </string-array>
+</resources>

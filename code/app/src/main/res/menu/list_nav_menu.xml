@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/list_nav_explore"
+        android:icon="@drawable/ic_send_black_24dp"
+        android:title="@string/title_explore" />
+
+    <item
+        android:id="@+id/list_nav_products"
+        android:icon="@drawable/ic_local_mall_black_24dp"
+        android:title="@string/title_products" />
+
+    <item
+        android:id="@+id/list_nav_shops"
+        android:icon="@drawable/ic_store_black_24dp"
+        android:title="@string/title_shops" />
+
+    <item
+        android:id="@+id/list_nav_map"
+        android:icon="@drawable/ic_pin_drop_black_24dp"
+        android:title="@string/title_map" />
+
+    <item
+        android:id="@+id/list_nav_wishlist"
+        android:icon="@drawable/ic_favorite_black_24dp"
+        android:title="@string/title_wishlist" />
+
+    <item
+        android:id="@+id/list_nav_shoppingcart"
+        android:icon="@drawable/ic_shopping_cart_black_24dp"
+        android:title="@string/title_shoppingcart" />
+
+    <item
+        android:id="@+id/list_nav_reservations"
+        android:icon="@drawable/ic_local_shipping_black_24dp"
+        android:title="@string/title_reservations" />
+
+    <item
+        android:id="@+id/list_nav_compare"
+        android:icon="@drawable/ic_compare_arrows_black_24dp"
+        android:title="@string/title_compare" />
+
+    <item
+        android:id="@+id/list_nav_profile"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="@string/title_profile" />
+
+    <item
+        android:id="@+id/list_nav_notifications"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="@string/title_notifications" />
+
+    <item
+        android:id="@+id/list_nav_settings"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="@string/title_settings" />
+</menu>
